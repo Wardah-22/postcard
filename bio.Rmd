@@ -1,5 +1,5 @@
 ---
-title: "Akim van Eersel <br> Data Scientist"
+title: "Akim van Eersel <br> Data Scientist and data analytics person"
 image: "Profil2048.jpg"
 links:
   - label: LinkedIn
